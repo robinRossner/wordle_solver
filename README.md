@@ -1,6 +1,6 @@
 # wordle_solver
 ## Overview
-dscord:L is a Python-based automation tool designed to interact with word puzzle games, like Wordle, by taking screenshots of the game's rows, analyzing the colors to interpret feedback, and making subsequent guesses based on a predefined list of words. It automates the process of playing these games by simulating keyboard inputs for guesses and navigating through the game's feedback.
+Is a Python-based automation tool designed to interact with word puzzle games, like Wordle, by taking screenshots of the game's rows, analyzing the colors to interpret feedback, and making subsequent guesses based on a predefined list of words. It automates the process of playing these games by simulating keyboard inputs for guesses and navigating through the game's feedback.
 
 ## Features
 ### Automated Guessing: 
